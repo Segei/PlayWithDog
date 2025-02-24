@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{04C75EF3-42BA-111D-6A5E-8E992871AB07}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PlayWithDog",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
